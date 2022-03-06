@@ -1,0 +1,16 @@
+D:\C# Evde practice\RombMeselesi\RombMeselesi\bin\Debug\net5.0\RombMeselesi.exe
+D:\C# Evde practice\RombMeselesi\RombMeselesi\bin\Debug\net5.0\RombMeselesi.deps.json
+D:\C# Evde practice\RombMeselesi\RombMeselesi\bin\Debug\net5.0\RombMeselesi.runtimeconfig.json
+D:\C# Evde practice\RombMeselesi\RombMeselesi\bin\Debug\net5.0\RombMeselesi.runtimeconfig.dev.json
+D:\C# Evde practice\RombMeselesi\RombMeselesi\bin\Debug\net5.0\RombMeselesi.dll
+D:\C# Evde practice\RombMeselesi\RombMeselesi\bin\Debug\net5.0\ref\RombMeselesi.dll
+D:\C# Evde practice\RombMeselesi\RombMeselesi\bin\Debug\net5.0\RombMeselesi.pdb
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.csproj.AssemblyReference.cache
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.AssemblyInfoInputs.cache
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.AssemblyInfo.cs
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.csproj.CoreCompileInputs.cache
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.dll
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\ref\RombMeselesi.dll
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.pdb
+D:\C# Evde practice\RombMeselesi\RombMeselesi\obj\Debug\net5.0\RombMeselesi.genruntimeconfig.cache
